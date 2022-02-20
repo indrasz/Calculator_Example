@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator Example</string>
+    <string name="hasil">Hasil</string>
+    <string name="input2">Input2</string>
+    <string name="input1">Input1</string>
+    <string name="hitung">Hitung</string>
+</resources>
